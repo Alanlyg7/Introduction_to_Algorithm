@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BD1500B42467D91800E7E6DE /* binarySearchTree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BD1500B22467D91800E7E6DE /* binarySearchTree.cpp */; };
 		BD2BBFA7243777EE00AF1931 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BD2BBFA6243777EE00AF1931 /* main.cpp */; };
 		BD2BBFAF2437782B00AF1931 /* sort_methods.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BD2BBFAD2437782B00AF1931 /* sort_methods.cpp */; };
 		BD788C2F24448DAA00801C48 /* maxsubarray_method.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BD788C2D24448DAA00801C48 /* maxsubarray_method.cpp */; };
@@ -30,6 +31,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		BD1500B22467D91800E7E6DE /* binarySearchTree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = binarySearchTree.cpp; sourceTree = "<group>"; };
+		BD1500B32467D91800E7E6DE /* binarySearchTree.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = binarySearchTree.hpp; sourceTree = "<group>"; };
 		BD2BBFA3243777EE00AF1931 /* Introduction_to_Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Introduction_to_Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD2BBFA6243777EE00AF1931 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		BD2BBFAD2437782B00AF1931 /* sort_methods.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = sort_methods.cpp; sourceTree = "<group>"; };
@@ -96,6 +99,8 @@
 				BD7D9B9E245594340088C3A4 /* selfimplemented_List.hpp */,
 				BDF81D35245A745D000F93B3 /* linked_list.cpp */,
 				BDF81D36245A745D000F93B3 /* linked_list.hpp */,
+				BD1500B22467D91800E7E6DE /* binarySearchTree.cpp */,
+				BD1500B32467D91800E7E6DE /* binarySearchTree.hpp */,
 			);
 			path = Data_Structure;
 			sourceTree = "<group>";
@@ -188,6 +193,7 @@
 			files = (
 				BD7D9B98245450830088C3A4 /* matrix.cpp in Sources */,
 				BD788C2F24448DAA00801C48 /* maxsubarray_method.cpp in Sources */,
+				BD1500B42467D91800E7E6DE /* binarySearchTree.cpp in Sources */,
 				BDF81D37245A745D000F93B3 /* linked_list.cpp in Sources */,
 				BD7D9B9C24557C260088C3A4 /* selfimplemented_Vector.cpp in Sources */,
 				BDDC824F2466AF270037F5C6 /* search_methods.cpp in Sources */,
