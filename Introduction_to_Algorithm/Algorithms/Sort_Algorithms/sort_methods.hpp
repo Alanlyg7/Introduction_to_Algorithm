@@ -13,7 +13,11 @@
 #include <iostream>
 #include <vector>
 
+
+void printVectorInt(std::vector<int> &input_array);
 std::vector<int> insertionSort(std::vector<int>& unsorted_array);
+std::vector<int> shellSort(std::vector<int>& unsorted_array);
+std::vector<int> selectionSort(std::vector<int>& unsorted_array);
 
 #endif /* sort_methods_hpp */
 
